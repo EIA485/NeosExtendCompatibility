@@ -2,8 +2,6 @@
 using NeosModLoader;
 using System;
 using FrooxEngine;
-using FrooxEngine.LogiX;
-using BaseX;
 
 namespace ExtendCompatibility
 {
